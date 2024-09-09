@@ -15,7 +15,11 @@ A complete ERP system UI for a Garment Management solution, designed in Figma. T
 
 ## Preview
 
-![Login in Light and Dark Mode]()
+![Login in Light and Dark Mode](https://github.com/mdkholilullahfahim/Garment-Management-System_ERP_UI/blob/cdadbc6080bf0d65a4de04b0353c14bbda862ccd/login.PNG)
+![Sign UP](https://github.com/mdkholilullahfahim/Garment-Management-System_ERP_UI/blob/cdadbc6080bf0d65a4de04b0353c14bbda862ccd/signup.PNG)
+![Products](https://github.com/mdkholilullahfahim/Garment-Management-System_ERP_UI/blob/cdadbc6080bf0d65a4de04b0353c14bbda862ccd/products.PNG)
+![Add Products](https://github.com/mdkholilullahfahim/Garment-Management-System_ERP_UI/blob/cdadbc6080bf0d65a4de04b0353c14bbda862ccd/Add%20product.PNG)
+![Payment Page](https://github.com/mdkholilullahfahim/Garment-Management-System_ERP_UI/blob/cdadbc6080bf0d65a4de04b0353c14bbda862ccd/Payment.PNG)
 
 ## License
 
